@@ -8,3 +8,6 @@ WORKDIR $ROOT
 
 # Now add the entire source code tree
 COPY . $ROOT
+
+# get deps
+RUN go get golang.org/x/net/http2

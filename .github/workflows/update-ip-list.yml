@@ -34,6 +34,6 @@ jobs:
               uses: EndBug/add-and-commit@v9
               with:
                   add: ./datacenters.csv ./datacenters-stats.csv
-                  author_name: Growl Dev-Ops
-                  author_email: dev-ops@growl.fm
+                  author_name: Podder Dev-Ops
+                  author_email: dev-ops@podderapp.com
                   message: Update IP list

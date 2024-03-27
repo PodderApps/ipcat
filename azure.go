@@ -8,6 +8,9 @@ import (
     "net/http"
     "regexp"
     "strings"
+    "crypto/tls"
+
+    "golang.org/x/net/http2"
 )
 
 type AzureValueProperties struct {
@@ -35,21 +38,32 @@ var findPublicIPsURL = func() (string, error) {
     //  https://www.microsoft.com/en-us/download/details.aspx?id=56519
     const downloadPage = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
 
-    resp, err := http.Get(downloadPage)
-    if err != nil {
-        return "", err
-    }
-    b, err := ioutil.ReadAll(resp.Body)
-    if err != nil {
-        return "", err
-    }
+	tlsTransport := &http2.Transport{
+		TLSClientConfig: &tls.Config{
+			MaxVersion: tls.VersionTLS12,
+		},
+	}
 
-    re := regexp.MustCompile("url=https://download.microsoft.com/download/.*/ServiceTags_Public_.*.json")
-    addr := re.Find(b)
+	client := http.Client{Transport: tlsTransport}
+	req, err := http.NewRequest("GET", downloadPage, nil)
 
-    if string(addr) == "" {
-        return "", errors.New("could not find PublicIPs address on download page")
-    }
+	resp, err := client.Do(req)
+
+	if err != nil {
+		return "", err
+	}
+
+	b, err := ioutil.ReadAll(resp.Body)
+	if err != nil {
+		return "", err
+	}
+
+	re := regexp.MustCompile("url=https://download.microsoft.com/download/.*/ServiceTags_Public_.*.json")
+	addr := re.Find(b)
+
+	if string(addr) == "" {
+		return "", errors.New("could not find PublicIPs address on download page")
+	}
 
     return string(addr)[4:], nil
 }
