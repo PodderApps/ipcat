@@ -961,6 +961,7 @@
 54.239.103.128,54.239.103.191,Amazon AWS,http://www.amazon.com/aws/
 54.241.0.0,54.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.112.0.0,56.112.255.255,Amazon AWS,http://www.amazon.com/aws/
+56.136.0.0,56.136.255.255,Amazon AWS,http://www.amazon.com/aws/
 56.155.0.0,56.155.127.255,Amazon AWS,http://www.amazon.com/aws/
 57.150.0.0,57.150.100.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 57.151.0.0,57.152.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
