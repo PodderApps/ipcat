@@ -229,8 +229,7 @@
 20.187.224.0,20.195.131.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.195.136.0,20.201.171.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.201.192.0,20.201.214.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.201.216.0,20.201.217.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-20.201.220.0,20.201.221.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+20.201.216.0,20.201.221.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.201.223.0,20.201.227.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.201.231.0,20.201.231.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 20.202.0.0,20.202.225.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -650,9 +649,9 @@
 40.120.136.0,40.120.140.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.144.0,40.120.144.189,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.148.0,40.120.150.119,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.152.0,40.120.153.115,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.152.0,40.120.153.131,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.156.0,40.120.157.205,Microsoft Azure,http://www.windowsazure.com/en-us/
-40.120.160.0,40.120.165.225,Microsoft Azure,http://www.windowsazure.com/en-us/
+40.120.160.0,40.120.165.233,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.168.0,40.120.168.129,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.172.0,40.120.172.143,Microsoft Azure,http://www.windowsazure.com/en-us/
 40.120.180.0,40.120.180.59,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -852,7 +851,7 @@
 52.108.115.0,52.108.118.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.121.0,52.108.130.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.132.0,52.108.139.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-52.108.144.0,52.108.149.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+52.108.144.0,52.108.150.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.108.165.0,52.109.165.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.111.192.0,52.111.211.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 52.111.224.0,52.111.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2036,7 +2035,7 @@
 97.107.128.0,97.107.143.255,Linode,http://www.linode.com/
 98.64.0.0,98.67.71.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.67.128.0,98.67.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-98.70.0.0,98.70.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+98.70.0.0,98.70.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.71.0.0,98.71.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 98.80.0.0,98.87.255.255,Amazon AWS,http://www.amazon.com/aws/
 98.126.0.0,98.126.255.255,VPLS Inc. d/b/a Krypt Technologies,http://krypt.com/
@@ -2301,7 +2300,6 @@
 128.199.0.0,128.199.255.255,DigitalOcean,https://www.digitalocean.com/
 128.204.194.0,128.204.207.255,Snel Internet Services B.V.,https://www.snelserver.com/
 128.204.208.0,128.204.215.255,ecritel.net,http://www.ecritel.net/
-130.171.0.0,130.171.0.191,Amazon AWS,http://www.amazon.com/aws/
 130.185.144.0,130.185.151.255,Titan Internet Ltd,http://www.titaninternet.co.uk/index.cfm
 130.185.152.0,130.185.155.255,webexxpurts.com,http://webexxpurts.com/
 130.211.4.0,130.211.255.255,Google Cloud,https://cloud.google.com/
@@ -2345,7 +2343,8 @@
 134.170.220.0,134.170.222.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 134.209.0.0,134.209.255.255,DigitalOcean,https://www.digitalocean.com/
 134.255.192.0,134.255.255.255,Optimate Server,http://optimate-server.de/
-135.236.0.0,135.236.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+135.224.0.0,135.224.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
+135.236.0.0,135.237.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 136.18.0.0,136.18.1.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.50.0,136.18.51.255,Amazon AWS,http://www.amazon.com/aws/
 136.18.128.0,136.18.141.255,Amazon AWS,http://www.amazon.com/aws/
