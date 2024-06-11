@@ -126,6 +126,8 @@
 13.250.0.0,13.251.255.255,Amazon AWS,http://www.amazon.com/aws/
 14.102.144.0,14.102.146.255,IP ServerOne,http://ipserverone.com/
 14.128.8.0,14.128.11.255,Servenet Solution Limited Partnership,http://servenet.co.th/
+15.145.0.0,15.145.5.255,Amazon AWS,http://www.amazon.com/aws/
+15.145.8.0,15.145.25.255,Amazon AWS,http://www.amazon.com/aws/
 15.152.0.0,15.152.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.156.0.0,15.157.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.160.0.0,15.161.255.255,Amazon AWS,http://www.amazon.com/aws/
@@ -407,6 +409,7 @@
 35.71.64.0,35.71.75.255,Amazon AWS,http://www.amazon.com/aws/
 35.71.96.0,35.71.121.255,Amazon AWS,http://www.amazon.com/aws/
 35.72.0.0,35.96.0.255,Amazon AWS,http://www.amazon.com/aws/
+35.96.16.0,35.96.31.255,Amazon AWS,http://www.amazon.com/aws/
 35.152.0.0,35.183.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.184.0.0,35.187.127.255,Google Cloud,https://cloud.google.com/
 35.187.144.0,35.190.95.255,Google Cloud,https://cloud.google.com/
@@ -2363,6 +2366,7 @@
 138.91.0.0,138.91.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 138.197.0.0,138.197.243.255,DigitalOcean,https://www.digitalocean.com/
 138.197.252.0,138.197.255.255,DigitalOcean,https://www.digitalocean.com/
+139.56.16.0,139.56.34.255,Amazon AWS,http://www.amazon.com/aws/
 139.59.0.0,139.59.255.255,DigitalOcean,https://www.digitalocean.com/
 139.162.0.0,139.162.255.255,Linode,http://www.linode.com/
 139.199.0.0,139.199.255.255,Tencent Cloud,https://intl.cloud.tencent.com/
@@ -2429,6 +2433,7 @@
 151.237.181.0,151.237.181.255,webexxpurts.com,http://webexxpurts.com/
 151.237.184.0,151.237.184.255,webexxpurts.com,http://webexxpurts.com/
 155.94.128.0,155.94.255.255,QuadraNet,https://www.quadranet.com/
+155.146.0.0,155.146.255.255,Amazon AWS,http://www.amazon.com/aws/
 157.52.64.0,157.52.127.255,Fastly,https://www.fastly.com/
 157.55.2.128,157.55.2.191,Microsoft Azure,http://www.windowsazure.com/en-us/
 157.55.7.128,157.55.7.191,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -2500,6 +2505,8 @@
 161.35.0.0,161.35.255.255,DigitalOcean,https://www.digitalocean.com/
 161.178.0.0,161.178.63.255,Amazon AWS,http://www.amazon.com/aws/
 161.178.128.0,161.178.191.255,Amazon AWS,http://www.amazon.com/aws/
+161.188.0.0,161.188.47.255,Amazon AWS,http://www.amazon.com/aws/
+161.188.127.0,161.188.127.255,Amazon AWS,http://www.amazon.com/aws/
 161.189.0.0,161.189.255.255,Amazon AWS,http://www.amazon.com/aws/
 161.193.0.0,161.193.63.255,Amazon AWS,http://www.amazon.com/aws/
 161.193.128.0,161.193.191.255,Amazon AWS,http://www.amazon.com/aws/
