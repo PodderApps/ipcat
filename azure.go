@@ -36,7 +36,7 @@ type Azure struct {
 var findPublicIPsURL = func() (string, error) {
     //  Ref: Azure IP Ranges and Service Tags – Public Cloud
     //  https://www.microsoft.com/en-us/download/details.aspx?id=56519
-    const downloadPage = "https://www.microsoft.com/en-us/download/confirmation.aspx?id=56519"
+    const downloadPage = "https://www.microsoft.com/en-us/download/details.aspx?id=56519"
 
 	tlsTransport := &http2.Transport{
 		TLSClientConfig: &tls.Config{
@@ -58,14 +58,14 @@ var findPublicIPsURL = func() (string, error) {
 		return "", err
 	}
 
-	re := regexp.MustCompile("url=https://download.microsoft.com/download/.*/ServiceTags_Public_.*.json")
+	re := regexp.MustCompile(`href="https://download\.microsoft\.com/download/.*/ServiceTags_Public_.*\.json"`)
 	addr := re.Find(b)
 
 	if string(addr) == "" {
 		return "", errors.New("could not find PublicIPs address on download page")
 	}
 
-    return string(addr)[4:], nil
+    return string(addr)[6:len(addr)-1], nil
 }
 
 // Downloads and returns raw bytes of the Azure IP range list
