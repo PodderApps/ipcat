@@ -772,9 +772,8 @@
 50.116.0.0,50.116.63.255,Linode,http://www.linode.com/
 50.116.64.0,50.116.127.255,WebsiteWelcome.com,http://www.websitewelcome.com/
 50.117.0.0,50.117.127.255,EGIHosting.com,http://www.egihosting.com/
-51.0.28.0,51.0.31.255,Amazon AWS,http://www.amazon.com/aws/
 51.0.80.0,51.0.119.255,Amazon AWS,http://www.amazon.com/aws/
-51.0.128.0,51.0.129.255,Amazon AWS,http://www.amazon.com/aws/
+51.0.128.0,51.0.135.255,Amazon AWS,http://www.amazon.com/aws/
 51.4.0.0,51.4.127.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.5.0.0,51.5.57.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 51.8.0.0,51.8.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -954,9 +953,9 @@
 52.254.0.0,52.255.255.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 54.25.15.0,54.25.15.255,Amazon AWS,http://www.amazon.com/aws/
 54.25.20.0,54.25.20.255,Amazon AWS,http://www.amazon.com/aws/
+54.25.66.0,54.25.66.255,Amazon AWS,http://www.amazon.com/aws/
 54.25.68.0,54.25.68.255,Amazon AWS,http://www.amazon.com/aws/
-54.25.72.0,54.25.72.255,Amazon AWS,http://www.amazon.com/aws/
-54.25.75.0,54.25.77.255,Amazon AWS,http://www.amazon.com/aws/
+54.25.74.0,54.25.77.255,Amazon AWS,http://www.amazon.com/aws/
 54.25.82.0,54.25.82.255,Amazon AWS,http://www.amazon.com/aws/
 54.26.166.0,54.26.166.255,Amazon AWS,http://www.amazon.com/aws/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
