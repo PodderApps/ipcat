@@ -2615,7 +2615,7 @@
 173.44.32.0,173.44.63.255,QuadraNet,https://quadranet.com/
 173.44.128.0,173.44.255.255,infinitie.net,http://www.serverhub.com/
 173.45.224.0,173.45.255.255,Rackspace,http://www.rackspace.com/
-173.82.8.0,173.82.8.255,Amazon AWS,http://www.amazon.com/aws/
+173.82.7.0,173.82.8.255,Amazon AWS,http://www.amazon.com/aws/
 173.82.10.0,173.82.16.255,Amazon AWS,http://www.amazon.com/aws/
 173.82.255.0,173.82.255.255,Amazon AWS,http://www.amazon.com/aws/
 173.83.192.0,173.83.198.255,Amazon AWS,http://www.amazon.com/aws/
@@ -3700,7 +3700,6 @@
 209.80.0.0,209.80.63.255,latisys,http://www.latisys.com/
 209.81.64.0,209.81.95.255,LogicWorks,http://www.logicworks.net/
 209.85.0.0,209.85.127.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
-209.92.6.0,209.92.6.255,Amazon AWS,http://www.amazon.com/aws/
 209.95.96.0,209.95.127.255,PEER 1,http://www.peer1.com/
 209.97.128.0,209.97.191.255,DigitalOcean,https://www.digitalocean.com/
 209.97.192.0,209.97.223.255,RackForce,http://www.rockforce.com/
