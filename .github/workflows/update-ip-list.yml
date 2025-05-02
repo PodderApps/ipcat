@@ -56,8 +56,8 @@ jobs:
       - name: Commit updated IP list artifacts
         if: ${{ steps.check_changes.outputs.diffs == 'true' }}
         run: |
-          git config --global user.name "Growl Dev-Ops"
-          git config --global user.email "dev-ops@growl.fm"
+          git config --global user.name "Podder Dev-Ops"
+          git config --global user.email "dev-ops@podderapp.com"
           git add ./datacenters.csv ./datacenters-stats.csv
           git commit -m "Update IP list"
           git push
