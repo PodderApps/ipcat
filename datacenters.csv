@@ -513,14 +513,13 @@
 34.183.32.0,34.183.37.255,Google Cloud,https://cloud.google.com/
 34.183.40.0,34.183.47.255,Google Cloud,https://cloud.google.com/
 34.183.50.0,34.183.61.255,Google Cloud,https://cloud.google.com/
-34.183.66.0,34.183.79.255,Google Cloud,https://cloud.google.com/
+34.183.66.0,34.183.81.255,Google Cloud,https://cloud.google.com/
 34.184.0.0,34.184.9.255,Google Cloud,https://cloud.google.com/
 34.184.12.0,34.184.19.255,Google Cloud,https://cloud.google.com/
 34.184.22.0,34.184.27.255,Google Cloud,https://cloud.google.com/
 34.184.30.0,34.184.35.255,Google Cloud,https://cloud.google.com/
 34.184.40.0,34.184.59.255,Google Cloud,https://cloud.google.com/
-34.184.64.0,34.184.74.255,Google Cloud,https://cloud.google.com/
-34.184.76.0,34.184.79.255,Google Cloud,https://cloud.google.com/
+34.184.64.0,34.184.80.255,Google Cloud,https://cloud.google.com/
 34.185.128.0,34.187.255.255,Google Cloud,https://cloud.google.com/
 34.192.0.0,34.255.255.255,Amazon AWS,http://www.amazon.com/aws/
 35.42.0.0,35.42.255.255,Amazon AWS,http://www.amazon.com/aws/
