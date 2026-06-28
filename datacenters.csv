@@ -1443,7 +1443,7 @@
 54.54.0.0,54.55.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.64.0.0,54.95.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.112.0.0,54.112.63.255,Amazon AWS,http://www.amazon.com/aws/
-54.116.0.0,54.117.255.255,Amazon AWS,http://www.amazon.com/aws/
+54.115.0.0,54.117.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.144.0.0,54.181.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.183.0.0,54.191.255.255,Amazon AWS,http://www.amazon.com/aws/
 54.193.0.0,54.221.255.255,Amazon AWS,http://www.amazon.com/aws/
