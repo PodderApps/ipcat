@@ -93,7 +93,7 @@
 8.228.0.0,8.230.127.255,Google Cloud,https://cloud.google.com/
 8.231.32.0,8.233.255.255,Google Cloud,https://cloud.google.com/
 8.234.2.0,8.234.17.255,Google Cloud,https://cloud.google.com/
-8.234.32.0,8.235.255.255,Google Cloud,https://cloud.google.com/
+8.234.20.0,8.235.255.255,Google Cloud,https://cloud.google.com/
 9.129.0.0,9.129.58.159,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.141.0.0,9.141.191.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 9.160.0.0,9.160.223.255,Microsoft Azure,http://www.windowsazure.com/en-us/
@@ -193,7 +193,7 @@
 15.228.0.0,15.229.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.232.0.0,15.233.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.236.0.0,15.237.255.255,Amazon AWS,http://www.amazon.com/aws/
-15.240.0.0,15.240.255.255,Amazon AWS,http://www.amazon.com/aws/
+15.240.0.0,15.241.255.255,Amazon AWS,http://www.amazon.com/aws/
 15.252.0.0,15.254.255.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.0.0,16.15.27.255,Amazon AWS,http://www.amazon.com/aws/
 16.15.32.0,16.15.59.255,Amazon AWS,http://www.amazon.com/aws/
@@ -482,6 +482,7 @@
 34.127.156.0,34.127.175.255,Google Cloud,https://cloud.google.com/
 34.127.177.0,34.127.180.255,Google Cloud,https://cloud.google.com/
 34.127.184.0,34.127.191.255,Google Cloud,https://cloud.google.com/
+34.128.4.0,34.128.7.255,Google Cloud,https://cloud.google.com/
 34.128.32.0,34.128.37.255,Google Cloud,https://cloud.google.com/
 34.128.42.0,34.128.49.255,Google Cloud,https://cloud.google.com/
 34.128.52.0,34.128.55.255,Google Cloud,https://cloud.google.com/
@@ -490,7 +491,7 @@
 34.129.0.0,34.142.255.255,Google Cloud,https://cloud.google.com/
 34.143.64.0,34.143.71.255,Google Cloud,https://cloud.google.com/
 34.143.128.0,34.143.255.255,Google Cloud,https://cloud.google.com/
-34.144.176.0,34.152.69.255,Google Cloud,https://cloud.google.com/
+34.144.172.0,34.152.69.255,Google Cloud,https://cloud.google.com/
 34.152.72.0,34.152.81.255,Google Cloud,https://cloud.google.com/
 34.152.84.0,34.152.87.255,Google Cloud,https://cloud.google.com/
 34.152.96.0,34.152.98.255,Google Cloud,https://cloud.google.com/
@@ -518,7 +519,7 @@
 34.177.40.0,34.177.55.255,Google Cloud,https://cloud.google.com/
 34.177.64.0,34.177.66.255,Google Cloud,https://cloud.google.com/
 34.177.68.0,34.177.78.127,Google Cloud,https://cloud.google.com/
-34.177.79.0,34.177.119.255,Google Cloud,https://cloud.google.com/
+34.177.79.0,34.177.123.255,Google Cloud,https://cloud.google.com/
 34.178.0.0,34.180.127.255,Google Cloud,https://cloud.google.com/
 34.181.0.0,34.183.9.255,Google Cloud,https://cloud.google.com/
 34.183.12.0,34.183.19.255,Google Cloud,https://cloud.google.com/
@@ -578,6 +579,7 @@
 35.220.31.0,35.228.255.255,Google Cloud,https://cloud.google.com/
 35.229.16.0,35.230.191.255,Google Cloud,https://cloud.google.com/
 35.230.240.0,35.235.127.255,Google Cloud,https://cloud.google.com/
+35.235.172.0,35.235.175.255,Google Cloud,https://cloud.google.com/
 35.235.216.0,35.235.223.255,Google Cloud,https://cloud.google.com/
 35.236.0.0,35.242.27.255,Google Cloud,https://cloud.google.com/
 35.242.31.0,35.243.15.255,Google Cloud,https://cloud.google.com/
@@ -1506,7 +1508,7 @@
 63.246.0.0,63.246.31.255,Xiolink,http://xiolink.com
 63.246.112.0,63.246.113.255,Amazon AWS,http://www.amazon.com/aws/
 63.246.119.0,63.246.119.255,Amazon AWS,http://www.amazon.com/aws/
-63.249.128.0,63.249.255.255,C I Host,http://www.cihost.com/
+63.249.128.0,63.249.215.255,Amazon AWS,http://www.amazon.com/aws/
 64.4.8.0,64.4.8.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.4.54.0,64.4.54.255,Microsoft Azure,http://www.windowsazure.com/en-us/
 64.5.32.0,64.5.63.255,"ThePlanet.com Internet Services, Inc.",http://theplanet.com
@@ -1573,7 +1575,7 @@
 64.151.64.0,64.151.127.255,GoGrid,http://www.gogrid.com/
 64.156.112.0,64.156.127.255,Hostway,http://www.hostway.com/
 64.179.224.0,64.179.239.255,LightEdge,http://www.lightedge.com
-64.182.0.0,64.182.255.255,C I Host,http://www.cihost.com/
+64.182.0.0,64.182.255.255,Corespace,https://corespace.com/
 64.187.96.0,64.187.127.255,AccelerateBiz Inc.,http://www.acceleratebiz.com/
 64.187.128.0,64.187.143.255,Amazon AWS,http://www.amazon.com/aws/
 64.191.0.0,64.191.127.255,hostnoc,http://www.hostnoc.net/
@@ -1647,7 +1649,6 @@
 66.23.224.0,66.23.239.255,InterServer.net,http://www.interserver.net/
 66.33.0.0,66.33.127.255,PEER 1,http://www.peer1.com/
 66.33.192.0,66.33.223.255,Dreamhost,http://www.dreamhost.com/
-66.34.0.0,66.34.255.255,C I Host,http://www.cihost.com/
 66.36.96.0,66.36.111.255,PEER 1,http://www.peer1.com/
 66.36.224.0,66.36.255.255,HopOne,http://www.hopone.net/
 66.39.0.0,66.39.159.255,Pair Networks,http://www.pair.com/
@@ -1694,7 +1695,6 @@
 66.219.16.0,66.219.31.255,netriplex,http://www.netriplex.com/
 66.219.96.0,66.219.111.255,Advanced Internet Technologies,http://www.ait.com/
 66.220.0.0,66.220.31.255,Hurricane Electric,http://www.he.net/
-66.221.0.0,66.221.255.255,C I Host,http://www.cihost.com/
 66.223.0.0,66.223.127.255,PEER 1,http://www.peer1.com/
 66.225.192.0,66.225.255.255,ServerCentral,http://www.servercentral.net/
 66.226.72.0,66.226.79.255,Codero,http://www.codero.com/
@@ -1820,7 +1820,7 @@
 69.10.32.0,69.10.63.255,InterServer.net,http://www.interserver.net/
 69.10.128.0,69.10.159.255,RackForce,http://www.rockforce.com/
 69.12.64.0,69.12.95.255,QuadraNet,https://quadranet.com/
-69.13.0.0,69.13.255.255,C I Host,http://www.cihost.com/
+69.13.0.0,69.13.255.255,Corespace,https://corespace.com/
 69.16.192.0,69.16.255.255,Liquid Web,http://www.liquidweb.com/
 69.20.0.0,69.20.127.255,Rackspace,http://www.rackspace.com/
 69.24.64.0,69.24.95.255,Gearhost,http://www.gearhost.com/
@@ -4423,7 +4423,6 @@
 209.159.144.0,209.159.159.255,InterServer.net,http://www.interserver.net/
 209.160.0.0,209.160.79.255,HopOne,http://www.hopone.net/
 209.164.0.0,209.164.63.255,HostMySite.com,http://www.webmysite.com/
-209.164.64.0,209.164.127.255,C I Host,http://www.cihost.com/
 209.172.32.0,209.172.63.255,iWeb Technologies Inc.,http://iweb.com/
 209.173.240.0,209.173.255.255,Securewebs.com,http://www.securewebs.com/
 209.177.80.0,209.177.95.255,Zenlayer,http://www.zenlayer.com/
@@ -4573,7 +4572,6 @@
 216.87.208.0,216.87.223.255,PEER 1,http://www.peer1.com/
 216.92.0.0,216.92.255.255,Pair Networks,http://www.pair.com/
 216.93.160.0,216.93.191.255,GoGrid,http://www.gogrid.com/
-216.97.0.0,216.97.127.255,C I Host,http://www.cihost.com/
 216.97.224.0,216.97.239.255,Lunar Pages,http://www.lunarpages.com/
 216.98.128.0,216.98.159.255,cari.net,http://cari.net/
 216.104.32.0,216.104.47.255,SingleHop,http://www.singlehop.com/
@@ -4619,7 +4617,6 @@
 216.218.128.0,216.218.255.255,Hurricane Electric,http://www.he.net/
 216.219.80.0,216.219.95.255,Host Department LLC,http://www.hostdepartment.com/
 216.220.208.0,216.220.212.255,Microsoft Azure,http://www.windowsazure.com/en-us/
-216.221.160.0,216.221.191.255,C I Host,http://www.cihost.com/
 216.222.192.0,216.222.207.255,Jumpline Inc,http://www.jumpline.com/
 216.224.112.0,216.224.127.255,ethr.net,http://ethr.net/
 216.227.208.0,216.227.223.255,Lunar Pages,http://www.lunarpages.com/
